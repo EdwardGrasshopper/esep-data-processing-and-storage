@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "string": "cpp",
+    "format": "cpp",
+    "array": "cpp",
+    "*.tcc": "cpp",
+    "istream": "cpp",
+    "tuple": "cpp",
+    "utility": "cpp",
+    "variant": "cpp",
+    "ostream": "cpp",
+    "iostream": "cpp"
+  }
+}
